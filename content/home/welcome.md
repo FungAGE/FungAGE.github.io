@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Vogan Lab** est. 2020.
+The **Vogan Lab** researches fungal evolution/genetics/genomics at Uppsala University, investigating accessory genomes of Fusarium and giant TEs.
