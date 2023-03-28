@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Aaron Vogan
+title: Adrian
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Principal Investigators
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -23,16 +23,16 @@ bio:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:aaron.vogan@ebc.uu.se"
+    link: "mailto:adrian.forsythe@ebc.uu.se"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/Hulk_Vogan/photo
+    link:
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.ca/citations?hl=en&user=_GkEY58AAAAJ
+    link:
   - icon: github
     icon_pack: fab
-    link: https://github.com/vogan-lab
+    link:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

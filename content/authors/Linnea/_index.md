@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Aaron Vogan
+title: Linnea
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Principal Investigators
+role: Researchers
 
 # Organizations/Affiliations
 organizations:
