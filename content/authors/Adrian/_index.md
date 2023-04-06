@@ -10,8 +10,8 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Uppsala University
-    url: "https://www.katalog.uu.se/empinfo/?id=N16-964"
+  - name:
+    url:
 
 # Short bio (displayed in user profile at end of posts)
 bio:

@@ -8,10 +8,10 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Vogan Lab
-hero_media: welcome.jpg
+hero_media: aaron.jpeg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: "1"
   # Add custom styles
   css_style:
   css_class:
@@ -19,4 +19,5 @@ design:
 
 <br>
 
-The **Vogan Lab** researches fungal evolution/genetics/genomics at Uppsala University, investigating accessory genomes of Fusarium and giant TEs.
+Research in fungal evolution, genetics, and genomics at Uppsala University.
+Currently, we are investigating accessory genomes of Fusarium and giant TEs.

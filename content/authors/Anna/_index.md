@@ -6,12 +6,12 @@ title: Anna
 superuser: false
 
 # Role/position
-role:
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Uppsala University
-    url: "https://www.katalog.uu.se/empinfo/?id=N16-964"
+  - name:
+    url:
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -21,18 +21,18 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto:aaron.vogan@ebc.uu.se"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Hulk_Vogan/photo
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.ca/citations?hl=en&user=_GkEY58AAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/vogan-lab
+  - icon:
+    icon_pack:
+    link:
+  - icon:
+    icon_pack:
+    link:
+  - icon:
+    icon_pack:
+    link:
+  - icon:
+    icon_pack:
+    link:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

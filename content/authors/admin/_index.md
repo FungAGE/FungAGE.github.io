@@ -6,7 +6,7 @@ title: Aaron Vogan
 superuser: true
 
 # Role/position
-role: Principal Investigators
+role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
