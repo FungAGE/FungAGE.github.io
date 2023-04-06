@@ -6,7 +6,7 @@ headless: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: ''
+  slide_height: ""
   is_fullscreen: true
   # Automatically transition through slides?
   loop: false
@@ -20,25 +20,25 @@ content:
       align: center
       background:
         position: right
-        color: '#666'
+        color: "#666"
         brightness: 0.7
-        media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+        media: 3amigos.jpg
+    - title: Lab Work
+      content:
       align: left
       background:
         position: center
-        color: '#555'
+        color: "#555"
         brightness: 0.7
-        media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+        media: lab.jpg
+    - title: More Lab Work
+      content:
       align: right
       background:
         position: center
-        color: '#333'
+        color: "#333"
         brightness: 0.5
-        media: welcome.jpg
+        media: podo.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
