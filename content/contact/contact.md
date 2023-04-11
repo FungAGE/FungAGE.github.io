@@ -22,7 +22,7 @@ content:
     city: Uppsala
     region:
     postcode: "75236"
-    country: Swedeb
+    country: Sweden
     country_code: SE
   coordinates:
     latitude: "59.8501802"

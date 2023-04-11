@@ -6,9 +6,8 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: |
-  Vogan Lab
-hero_media: aaron.jpeg
+title: Researching fungal evolution, genetics, and genomics at Uppsala University.
+hero_media: 3amigos.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: "1"
@@ -19,5 +18,4 @@ design:
 
 <br>
 
-Research in fungal evolution, genetics, and genomics at Uppsala University.
 Currently, we are investigating accessory genomes of Fusarium and giant TEs.
