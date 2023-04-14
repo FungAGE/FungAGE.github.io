@@ -26,7 +26,7 @@ social:
     link: "mailto:aaron.vogan@ebc.uu.se"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/Hulk_Vogan/photo
+    link: https://twitter.com/Hulk_Vogan/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?hl=en&user=_GkEY58AAAAJ

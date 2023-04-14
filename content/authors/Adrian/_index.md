@@ -26,7 +26,7 @@ social:
     link: "mailto:adrian.forsythe@ebc.uu.se"
   - icon: twitter
     icon_pack: fab
-    link:
+    link: https://twitter.com/adrian_forsythe/
   - icon: google-scholar
     icon_pack: ai
     link:
@@ -51,4 +51,4 @@ user_groups:
   - Researcher
 ---
 
-My name is Adrian.
+I am a microbiologist by training, but most of my research has focused on the genomics of fungal zoonoses, microbiomes of wild animals, and now large transposible elements in fungal genomes. In the Vogan Lab, we are interested in developing a better understanding of the incredible plasticity exhibited in fungal genomes. My research is centered in identifying genes that are involved with the movement and function of some extremely large transposible elements, The Starships.

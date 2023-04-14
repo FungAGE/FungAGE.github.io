@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Linnéa
+title: Linnéa Sandell, PhD.
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,9 +21,9 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon:
-    icon_pack:
-    link:
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:linnea.sandell@ebc.uu.se"
   - icon:
     icon_pack:
     link:
