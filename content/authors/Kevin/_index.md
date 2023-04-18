@@ -6,7 +6,7 @@ title: Kevin
 superuser: false
 
 # Role/position
-role: Graduate Student
+role:
 
 # Organizations/Affiliations
 organizations:
