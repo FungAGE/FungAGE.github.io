@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Vogan Lab # Website name
-baseURL: "https://vogan-lab.github.io" # Website URL
+baseURL: "vogan-lab-page" # Website URL
 
 ############################
 ## LANGUAGE
