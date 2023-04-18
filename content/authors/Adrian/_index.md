@@ -48,7 +48,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researcher
+  - Researchers
 ---
 
 I am a microbiologist by training, but most of my research has focused on the genomics of fungal zoonoses, microbiomes of wild animals, and now large transposible elements in fungal genomes. In the Vogan Lab, we are interested in developing a better understanding of the incredible plasticity exhibited in fungal genomes. My research is centered in identifying genes that are involved with the movement and function of some extremely large transposible elements, The Starships.

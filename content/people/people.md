@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: Meet the Humans
 subtitle:
 
 content:
@@ -17,9 +17,9 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Principal Investigator
-    - Researcher
-    - Graduate Student
-    - Undergraduate Student
+    - Researchers
+    - Graduate Students
+    - Undergraduate Students
     - Alumni
 design:
   show_interests: false
