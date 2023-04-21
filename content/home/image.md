@@ -34,8 +34,4 @@ advanced:
 
 The research in the Vogan Lab involves understanding how fungi evolve traits that allow them to cause disease in other organisms. We use comparative genomics along with genetic analyses to investigate factors that promote virulence. A major aim is to understand the origin and maintenance of accessory genomes, particularly in species of the plant pathogen, _Fusarium_.
 
-<p align="middle">
-  <img src="/podo-lifecycle.png" width="500" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/starships.png" width="500" />
-</p>
+<img src="/combined_spoks.png" width="600" align="middle" />
