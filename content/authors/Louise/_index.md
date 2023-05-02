@@ -14,7 +14,7 @@ organizations:
     url:
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: "I am a bachelor's student studying molecular biology at Uppsala University. Right now my thesis is focused on understanding transposable elements in fungi."
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,3 +50,7 @@ highlight_name: false
 user_groups:
   - Undergraduate Students
 ---
+
+<p vertical-align="baseline">
+I am a bachelor's student studying molecular biology at Uppsala University. Right now my thesis is focused on understanding transposable elements in fungi.
+</p>
