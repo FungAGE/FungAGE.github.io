@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Adrian Forsythe PhD.
+title: Meifang Wu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role:
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,17 +21,17 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto:adrian.forsythe@ebc.uu.se"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/adrian_forsythe/
-  - icon: google-scholar
-    icon_pack: ai
+  - icon:
+    icon_pack:
     link:
-  - icon: github
-    icon_pack: fab
+  - icon:
+    icon_pack:
+    link:
+  - icon:
+    icon_pack:
+    link:
+  - icon:
+    icon_pack:
     link:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -48,7 +48,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
-
-I am a microbiologist by training, but most of my research has focused on the genomics of fungal zoonoses, microbiomes of wild animals, and now large transposible elements in fungal genomes. In the Vogan Lab, we are interested in developing a better understanding of the incredible plasticity exhibited in fungal genomes. My research is centered in identifying genes that are involved with the movement and function of some extremely large transposible elements, The Starships.
