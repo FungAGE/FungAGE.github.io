@@ -50,3 +50,5 @@ highlight_name: false
 user_groups:
   - Undergraduate Student
 ---
+
+Hey, I am Armin and I am a third year bachelor student studying Biology and molecular biology. I am currently working on my bachelor thesis, studying the phylogenetic distribution of Spokhomologs in Fusarium species. I love biology and genetics, so doing this project is superfun and has been very educational.
