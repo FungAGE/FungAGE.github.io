@@ -29,7 +29,7 @@ social:
     link: https://twitter.com/adrian_forsythe/
   - icon: google-scholar
     icon_pack: ai
-    link:
+    link: https://scholar.google.com/citations?user=zw1me-MBbngC&hl=en
   - icon: github
     icon_pack: fab
     link:
