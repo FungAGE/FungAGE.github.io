@@ -6,7 +6,7 @@ title: Adrian Forsythe PhD.
 superuser: false
 
 # Role/position
-role: Researcher
+role:
 
 # Organizations/Affiliations
 organizations:
