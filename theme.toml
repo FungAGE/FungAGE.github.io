@@ -1,8 +1,8 @@
 name = "FungAGE Lab"
 license = "MIT"
-licenselink = "https://github.com/vogan-lab/blob/main/LICENSE.md"
+licenselink = "https://github.com/FungAGE/blob/main/LICENSE.md"
 description = "Fungal Accessory Genome Evolution Research at Uppsala University"
-homepage = "https://FungAGE.github.io/"
+homepage = "https://FungAGEithub.io/"
 tags = ["academic",
         "university",
         "research",
