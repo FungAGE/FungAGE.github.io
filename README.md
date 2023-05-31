@@ -1,2 +1,3 @@
 FungAGE Lab
-Fungal Accessory Genome Evolution Research at Uppsala University
+
+**Fung**al **A**ccessory **G**enome **E**volution Research at Uppsala University
