@@ -18,4 +18,4 @@ design:
 
 <br>
 
-Currently, we are investigating accessory genomes of Fusarium and giant TEs.
+Researching the evolutionary dynamics of accessory genomes and giant TEs in species of filamentous fungal, such as _Fusarium_.
