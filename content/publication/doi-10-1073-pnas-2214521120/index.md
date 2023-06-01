@@ -2,14 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title:
-  <i>Starships</i> are active eukaryotic transposable elements mobilized by a
+  Starships are active eukaryotic transposable elements mobilized by a
   new family of tyrosine recombinases
 subtitle: ""
 summary: ""
 authors:
-  - Andrew S. Urquhart
-  - Aaron A. Vogan
-  - Donald M. Gardiner
+  - Andrew S Urquhart
+  - Aaron A Vogan
+  - Donald M Gardiner
   - Alexander Idnurm
 tags: []
 categories: []
