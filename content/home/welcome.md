@@ -14,4 +14,4 @@ design:
 
 <br>
 
-Researching the evolutionary dynamics of accessory genomes and giant TEs in species of filamentous fungal, such as _Fusarium_.
+Researching the evolutionary dynamics of accessory genomes and giant TEs in species of filamentous fungi, such as _Fusarium_.
