@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title:
+title: Researching the evolutionary dynamics of accessory genomes and giant TEs in species of filamentous fungi.
 subtitle:
 
 design:
