@@ -20,7 +20,8 @@ content:
     - Researchers
     - Graduate Students
     - Undergraduate Students
-    - Alumni
+    - Summer Project Students
+    - Alumni/Previous Students
 design:
   show_interests: false
   show_role: false
