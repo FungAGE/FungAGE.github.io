@@ -9,22 +9,10 @@ design:
     image: banner.png
     image_darken: 0
     image_parallax: false
-    image_position: center
+    image_position: top
     image_size: actual
     text_color_light: true
-
-  # Add custom styles
-  css_style:
-  css_class:
 ---
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br><br><br>
+<br><br><br>
