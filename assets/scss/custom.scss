@@ -1,3 +1,64 @@
+.banner {
+  width: 100%;
+  max-width: 100%; /* Adjust as needed for larger screens */
+  overflow: hidden; /* Ensure the image doesn't overflow on small screens */
+  text-align: center;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Default font size for larger screens */
+body {
+  font-size: 16px;
+}
+
+.responsive-img img {
+  max-width: 80%; /* Ensure images don't exceed their container's width */
+  display: block; /* Remove any potential extra spacing */
+  margin: 0 auto; /* Center the image horizontally within its container */
+  height: auto; /* Allow the image to scale proportionally with its width */
+
+  // float: center;
+  // vertical-align: center;
+}
+
+/* Adjust font size for medium-sized screens (e.g., tablets) */
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+  .responsive-img img {
+    max-width: 60%; /* Adjust as needed */
+  }
+}
+
+/* Adjust font size for smaller screens (e.g., smartphones) */
+@media screen and (max-width: 480px) {
+  body {
+    font-size: 12px;
+  }
+  .responsive-img img {
+    max-width: 40%; /* Adjust as needed */
+  }
+}
+
+.responsive-text p {
+  /* Use relative units like em for font size */
+  font-size: 2em; /* This is the default size; adjust as needed */
+  text-align: justify;
+}
+
+/* Apply styles to elements with the responsive-text class */
+.responsive-title h1 {
+  /* Use relative units like vw for font size */
+  font-size: 3vw; /* Adjust the value as needed for titles on smaller screens */
+  text-align: center;
+}
+
 /* Background */
 .chroma {
   background-color: #f0f0f0;
