@@ -1,5 +1,5 @@
 ---
-title: Spok Summary
+title: Spok Research Summary
 date: 2023-04-03
 ---
 
