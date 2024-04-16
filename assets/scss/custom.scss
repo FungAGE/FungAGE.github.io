@@ -59,6 +59,12 @@ body {
   text-align: center;
 }
 
+.responsive-subtitle h3 {
+  /* Use relative units like vw for font size */
+  font-size: 3vw; /* Adjust the value as needed for titles on smaller screens */
+  text-align: center;
+}
+
 /* Background */
 .chroma {
   background-color: #f0f0f0;

@@ -38,6 +38,6 @@ advanced:
 <img src="/lab-photo.jpg"  />
 </div>
 <br/>
-<div class="responsive-text">
+<div class="responsive-subtitle">
 Research in the FungAGE Lab involves understanding how Fungi evolve traits that allow them to cause disease in other organisms. We use comparative genomics along with genetic analyses to investigate factors that promote virulence. A major aim is to understand the origin and maintenance of accessory genomes, particularly in species of the plant pathogen, <it>Fusarium</it>.
 </div>
