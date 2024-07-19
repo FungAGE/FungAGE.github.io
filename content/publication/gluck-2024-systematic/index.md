@@ -1,19 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Starships are active eukaryotic transposable elements mobilized by a new family
-  of tyrosine recombinases
+title: Systematic identification of cargo-mobilizing genetic elements reveals new
+  dimensions of eukaryotic diversity
 subtitle: ''
 summary: ''
 authors:
-- Andrew S Urquhart
+- Emile Gluck-Thaler
 - Aaron A Vogan
-- Donald M Gardiner
-- Alexander Idnurm
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-04-11T10:41:02+02:00
+date: '2024-01-01'
+lastmod: 2024-07-19T13:53:41+02:00
 featured: false
 draft: false
 
@@ -31,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-04-11T08:41:02.686254Z'
+publishDate: '2024-07-19T11:53:41.430067Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Biorxiv*'
+publication: '*Nucleic Acids Research*'
 ---
