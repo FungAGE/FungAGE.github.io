@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Andrew Urquhart PhD.
+title: Karin Steffen PhD.
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role:
+role: PostDoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -23,10 +23,7 @@ bio:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:andrew.urquhart@ebc.uu.se"
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=AeetjikAAAAJ&hl=en&oi=sra
+    link: "mailto:karin.steffen@ebc.uu.se"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -44,5 +41,3 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-
-My research expertise is in fungal genetics. I completed my PhD at the University of Melbourne initially looking at the plant pathogen _Leptosphaeria maculans_ but quickly branching out to cover several other interesting topics including genetic manipulation of the genus _Paecilomyces_ and studying the diversity of early diverging fungi in Australia. Since my PhD I have continued to work on a number of these themes. In particular, I am now focused on better characterising the Starship transposons of _Paecilomyces_.

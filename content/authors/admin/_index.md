@@ -6,7 +6,7 @@ title: Aaron Vogan PhD.
 superuser: true
 
 # Role/position
-role:
+role: Group Leader
 
 # Organizations/Affiliations
 organizations:
