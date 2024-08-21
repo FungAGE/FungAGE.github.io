@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Kevin Nielsen BSc.
+title: Karin Steffen PhD.
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role:
+role: PostDoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -23,16 +23,7 @@ bio:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:kevin.nielsen97@gmail.com"
-  - icon:
-    icon_pack:
-    link:
-  - icon:
-    icon_pack:
-    link:
-  - icon:
-    icon_pack:
-    link:
+    link: "mailto:karin.steffen@ebc.uu.se"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -48,7 +39,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni/Previous Students
+  - Researchers
 ---
-
-I've studied cell and molecular biology with an additional focus on microbiology and evolutionary biology. I'm currently conducting my master thesis at Aaron Vogan’s lab in collaboration with Lars Behrendt’s lab and Anna Rosling’s lab. My work is concerned with yeast evolution and domestication, specifically beer-fermenting yeast. For example, I’m trying to “resurrect” and sequence ancient strains of yeast from museum items historically used in beer brewing. I enjoy working both in the wet and dry lab and my passion for biology is broad. For example, in my bachelor thesis I studied insect physiology and genetics. Additionally, I have an interest in writing and I have taken extra university courses in English language structure, linguistics, literature, and academic writing.
