@@ -42,7 +42,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni/Previous Students
 ---
 
 My research expertise is in fungal genetics. I completed my PhD at the University of Melbourne initially looking at the plant pathogen _Leptosphaeria maculans_ but quickly branching out to cover several other interesting topics including genetic manipulation of the genus _Paecilomyces_ and studying the diversity of early diverging fungi in Australia. Since my PhD I have continued to work on a number of these themes. In particular, I am now focused on better characterising the Starship transposons of _Paecilomyces_.
