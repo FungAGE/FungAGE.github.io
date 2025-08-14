@@ -1,6 +1,7 @@
 ---
-title: Starship Research Summary
+title: Starships
 date: 2024-04-16
+summary: Novel family of class II DNA transposons endemic to Pezizomycotina, capable of carrying genetic cargo and making up to 2% of fungal genomes.
 ---
 
 <div class="responsive-text">

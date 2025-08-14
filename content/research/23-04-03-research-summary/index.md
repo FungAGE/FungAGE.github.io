@@ -1,6 +1,7 @@
 ---
-title: Spok Research Summary
+title: Spore Killing Genes (Spoks)
 date: 2023-04-03
+summary: Investigation of spore killing genes (Spoks) in Podospora anserina and their homologs (FuSpoks) in Fusarium species, exploring their role in genome maintenance.
 ---
 
 <div class="responsive-text">
