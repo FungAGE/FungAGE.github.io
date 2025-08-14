@@ -1,29 +1,267 @@
-.banner {
-  width: 100%;
-  max-width: 100%; /* Adjust as needed for larger screens */
-  overflow: hidden; /* Ensure the image doesn't overflow on small screens */
+/* ==========================================================================
+   Modern Responsive Layout for FungAGE Lab
+   ========================================================================== */
+
+/* Welcome Section Styles */
+.welcome-section {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
   text-align: center;
 }
 
+.welcome-section .container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Banner image styling */
+.welcome-section img {
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+  max-width: 80%;
+  height: auto;
+}
+
+.welcome-section img:hover {
+  transform: translateY(-5px);
+}
+
+.welcome-section h1 {
+  color: #2c3e50;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  margin-top: 1rem;
+  line-height: 1.3;
+}
+
+.welcome-section h2 {
+  color: #6c757d;
+  font-size: 1.3rem;
+  font-weight: 400;
+  margin-bottom: 2rem;
+  line-height: 1.3;
+}
+
+.welcome-section h3 {
+  color: #007bff;
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  line-height: 1.3;
+}
+
+.welcome-section p {
+  color: #5a6c7d;
+  font-size: 1.2rem;
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Hero Section Styles */
+.hero-section {
+  position: relative;
+  min-height: 70vh;
+  text-align: center;
+}
+
+.hero-section .container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.hero-section h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.3;
+  margin-bottom: 2rem;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+}
+
+.hero-section p {
+  font-size: 1.2rem;
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+  color: #f8f9fa;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+}
+
+/* Lab photo styling */
+.hero-section img {
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+  transition: transform 0.3s ease;
+  max-width: 80%;
+  height: auto;
+}
+
+.hero-section img:hover {
+  transform: translateY(-5px);
+}
+
+/* Simple Button Styles */
+.hero-section a[href="/research/"],
+.hero-section a[href="/people/"] {
+  font-family: inherit;
+  font-size: 1rem;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.hero-section a[href="/research/"]:hover {
+  background-color: #0056b3 !important;
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+.hero-section a[href="/people/"]:hover {
+  background-color: rgba(255,255,255,0.1) !important;
+  border-color: rgba(255,255,255,0.8) !important;
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+/* Legacy button styles for other parts of the site */
+.btn {
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: 500;
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.3s ease;
+  border: 1px solid transparent;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+  color: white;
+  text-decoration: none;
+}
+
+.btn-outline {
+  background: transparent;
+  color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-outline:hover {
+  background: #007bff;
+  color: white;
+  text-decoration: none;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .hero-section h1 {
+    font-size: 1.8rem;
+  }
+  
+  .hero-section p {
+    font-size: 1.1rem;
+  }
+  
+  .welcome-section h1 {
+    font-size: 2rem;
+  }
+  
+  .welcome-section h2 {
+    font-size: 1.2rem;
+  }
+  
+  .welcome-section h3 {
+    font-size: 1.5rem;
+  }
+  
+  .welcome-section p {
+    font-size: 1.1rem;
+  }
+  
+  .welcome-section img {
+    max-width: 90%;
+  }
+  
+  .btn {
+    padding: 8px 16px;
+    font-size: 0.9rem;
+  }
+  
+  .hero-section a[href="/research/"],
+  .hero-section a[href="/people/"] {
+    padding: 10px 20px !important;
+    font-size: 0.9rem !important;
+    margin: 0.3rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-section h1 {
+    font-size: 1.5rem;
+  }
+  
+  .hero-section p {
+    font-size: 1rem;
+  }
+  
+  .welcome-section h1 {
+    font-size: 1.8rem;
+  }
+  
+  .welcome-section h2 {
+    font-size: 1.1rem;
+  }
+  
+  .welcome-section h3 {
+    font-size: 1.3rem;
+  }
+  
+  .welcome-section p {
+    font-size: 1rem;
+  }
+  
+  .hero-section .container,
+  .welcome-section .container {
+    padding: 0 15px;
+  }
+  
+  .hero-section img {
+    max-width: 95%;
+  }
+  
+  .welcome-section img {
+    max-width: 95%;
+  }
+}
+
+/* Legacy styles for backward compatibility */
 img {
   display: block;
   width: 100%;
   height: auto;
 }
 
-/* Default font size for larger screens */
 body {
   font-size: 16px;
 }
 
 .responsive-img img {
-  max-width: 80%; /* Ensure images don't exceed their container's width */
-  display: block; /* Remove any potential extra spacing */
-  margin: 0 auto; /* Center the image horizontally within its container */
-  height: auto; /* Allow the image to scale proportionally with its width */
-
-  // float: center;
-  // vertical-align: center;
+  max-width: 80%;
+  display: block;
+  margin: 0 auto;
+  height: auto;
 }
 
 /* Adjust font size for medium-sized screens (e.g., tablets) */
