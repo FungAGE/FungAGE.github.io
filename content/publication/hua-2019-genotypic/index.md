@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: Genotypic and phenotypic analyses of two “isogenic” strains of the human fungal
   pathogen Cryptococcus neoformans var. neoformans

@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: A beginner’s guide to manual curation of transposable elements
 subtitle: ''

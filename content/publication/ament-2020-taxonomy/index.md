@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: The taxonomy of the model filamentous fungus Podospora anserina
 subtitle: ''

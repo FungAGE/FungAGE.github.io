@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: Systematic identification of cargo-mobilizing genetic elements reveals new
   dimensions of eukaryotic diversity

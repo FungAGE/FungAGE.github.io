@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: Convergent evolution of complex genomic rearrangements in two fungal meiotic
   drive elements

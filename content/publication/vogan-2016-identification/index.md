@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: Identification of QTLs associated with virulence related traits and drug resistance
   in Cryptococcus neoformans

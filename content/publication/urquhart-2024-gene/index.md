@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: Gene acquisition by giant transposons primes eukaryotes for rapid evolution
   via horizontal gene transfer

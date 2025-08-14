@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: The role of toxin/antidote genes in the maintenance and evolution of accessory
   chromosomes in Fusarium

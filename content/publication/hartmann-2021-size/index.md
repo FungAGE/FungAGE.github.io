@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: Size variation of the nonrecombining region on the mating-type chromosomes
   in the fungal Podospora anserina species complex

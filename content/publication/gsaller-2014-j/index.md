@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: The J anus transcription factor H ap X controls fungal adaptation to both iron
   starvation and iron excess

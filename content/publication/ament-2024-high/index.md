@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: High-Quality Genome Assemblies of 4 Members of the Podospora anserina Species
   Complex

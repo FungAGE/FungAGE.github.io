@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: Giant transposons promote strain heterogeneity in a major fungal pathogen
 subtitle: ''

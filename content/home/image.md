@@ -1,7 +1,7 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+# An instance of the Hero widget.
+# Documentation: https://docs.hugoblox.com/reference/page-builder/
+widget: hero
 
 # Activate this widget? true/false
 active: true

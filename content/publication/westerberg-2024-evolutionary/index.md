@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: Evolutionary dynamics of the LTR-retrotransposon crapaud in the Podospora anserina
   species complex and the interaction with repeat-induced point mutations

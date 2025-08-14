@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: Genetic and environmental influences on the germination of basidiospores in
   the Cryptococcus neoformans species complex

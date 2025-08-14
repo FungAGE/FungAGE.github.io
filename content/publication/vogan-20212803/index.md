@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: (2803) Proposal to change the conserved type of Podospora, nom. cons.(Ascomycota)
 subtitle: ''

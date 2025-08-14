@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: The Enterprise, a massive transposon carrying Spok meiotic drive genes
 subtitle: ''

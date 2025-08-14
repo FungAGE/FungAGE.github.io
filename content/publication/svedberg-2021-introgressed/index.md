@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: An introgressed gene causes meiotic drive in Neurospora sitophila
 subtitle: ''

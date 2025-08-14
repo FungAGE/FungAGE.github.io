@@ -1,6 +1,6 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/getting-started/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
@@ -89,7 +89,7 @@ features:
       category: ""
       category_id: ""
   search:
-    provider: wowchemy
+    provider: hugoblox
     algolia:
       app_id: ""
       api_key: ""

@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: Evidence for genetic incompatibilities associated with post-zygotic reproductive
   isolation in the human fungal pathogen Cryptococcus neoformans

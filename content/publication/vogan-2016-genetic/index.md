@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: Genetic Analysis of a Hybrid Cross between Cryptococcus neoformans and Cryptococcus
   deneoformans

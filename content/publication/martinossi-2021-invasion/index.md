@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/reference/content-management/
 
 title: Invasion and maintenance of meiotic drivers in populations of ascomycete fungi
 subtitle: ''

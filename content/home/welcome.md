@@ -1,5 +1,5 @@
 ---
-widget: blank # See https://wowchemy.com/docs/page-builder/
+widget: hero # See https://docs.hugoblox.com/reference/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 
