@@ -15,7 +15,7 @@ advanced:
 ---
 
 <p align="center" style="margin-bottom: 2rem;">
-  ![FungAGE Lab Banner](/banner.png)
+  <img src="/banner.png" alt="FungAGE Lab Banner" style="max-width: 100%; height: auto;" />
 </p>
 
 # Advancing Fungal Genomics Research
