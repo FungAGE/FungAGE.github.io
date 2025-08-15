@@ -14,9 +14,9 @@ advanced:
   css_class: welcome-section
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <img src="banner.png" alt="FungAGE Lab Banner" style="max-width: 100%; height: auto; margin-bottom: 2rem;">
-</div>
+<p align="center" style="margin-bottom: 2rem;">
+  ![FungAGE Lab Banner](/banner.png)
+</p>
 
 # Advancing Fungal Genomics Research
 
