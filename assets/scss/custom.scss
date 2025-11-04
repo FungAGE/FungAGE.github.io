@@ -36,6 +36,13 @@
   line-height: 1.3;
 }
 
+/* Dark mode support for welcome section title */
+@media (prefers-color-scheme: dark) {
+  .welcome-section h1 {
+    color: #e2e8f0;
+  }
+}
+
 .welcome-section h2 {
   color: #6c757d;
   font-size: 1.3rem;
