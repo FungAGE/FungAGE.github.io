@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zuzana Valova
+title: Zuzana Valová
 
 # Is this the primary user of the site?
 superuser: false
